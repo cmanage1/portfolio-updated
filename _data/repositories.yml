@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cmanage1/ufc-fight-predictor
+  - cmanage1/BookBot
+  - cmanage1/lm-genie
+  - cmanage1/youtube-summarizer
+  - kaernlab/BioProtocols
+  - cmanage1/shelf-it
+  - cmanage1/PriorityQueue
+  - cmanage1/beanbot
+  - cmanage1/npm-unmaintained
+  - cmanage1/springboot-calculator
