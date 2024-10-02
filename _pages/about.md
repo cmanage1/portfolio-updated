@@ -29,8 +29,8 @@ social: true  # includes social icons at the bottom of the page
 
 💻 i'm currently ...
 
-- learning aws cloud
+- travelling
 
-- contributing to open source
+- learning cloud architecture
 
 <br/><br/><br/>
