@@ -11,10 +11,10 @@ profile:
   address: >
     <p>Software Developer, specialized in Python & React</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 🇨🇦 i'm a software developer with honours BSc. in computer science.
